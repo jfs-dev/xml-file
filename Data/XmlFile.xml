@@ -1,0 +1,17 @@
+<Customers>
+  <Customer>
+    <Id>0b15bff1-c607-4744-8082-414f8ec9f837</Id>
+    <Name>Peter Parker</Name>
+    <Email>peter.parker@marvel.com</Email>
+  </Customer>
+  <Customer>
+    <Id>d7915cb0-2a36-4a81-a5c5-ed70e4b46af2</Id>
+    <Name>Ben Parker</Name>
+    <Email>ben.parker@marvel.com</Email>
+  </Customer>
+  <Customer>
+    <Id>f958c595-1812-4420-b2b6-a3895316eca0</Id>
+    <Name>Mary Jane</Name>
+    <Email>mary.jane@marvel.com</Email>
+  </Customer>
+</Customers>
